@@ -26,3 +26,7 @@ Python's version of Excel or R dataframes
     - Datafram is built on top of pandas
     - Dataframe.shape is a tuple
     - (5, 4): 5 refers to rows, 4 to columns (thus 0, 1)
+
+## Seaborn
+
+[Documentation](http://seaborn.pydata.org/)
