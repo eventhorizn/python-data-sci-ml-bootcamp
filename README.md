@@ -2,6 +2,9 @@
 
 Bootcamp for python data science and machine learning
 
+www.kaggle.com
+- Data Science site w/ data sets and competitions
+
 ## NumPy
 
 1. Linear Algebra library for python
